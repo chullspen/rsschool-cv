@@ -18,7 +18,7 @@ I'm a hard-working man and I can learn fast. More than that I dedicate a lot of 
 - JQuery
 
 ### Experience
-Currently I'm working as an English tutor and as a freelancer. I'm creating a web site which would contain an interractive test to raise the awarness for the Holocaust in Belarus during the times of the Great Patriotic war. I'm using the default web-kit for this (HTML, CSS, JS) and JQuery. I'm planning to finish my project in the middle of September.
+Currently I'm working as an English tutor and a freelancer. I'm creating a web site which would contain an interractive test to raise the awarness for the Holocaust in Belarus during the times of the Great Patriotic war. I'm using the default web-kit for this (HTML, CSS, JS) and JQuery. I'm planning to finish my project in the middle of September.
 Sorry, I wouldn't post the source code of it untill the project is finished.
 In addition to that I was working on a GUI for the same project using Python and its framework called PyQt5. 
 As a funny experiment I have a created a Telegram bot for my friend using Python.
