@@ -34,7 +34,3 @@ As a funny experiment I have a created a Telegram bot for my friend using Python
 ### English 
 I have worked as an English teacher for 2 years already (on my own and for a company). I have taught many different levels of English, including Upper-Intermediate level. 
 But my development in English doesn't only stop there. I read a lot and I like watching all sorts of educative content on the Internet.
-
-
-
-https://github.com/chullspen/rsschool-cv/cv
